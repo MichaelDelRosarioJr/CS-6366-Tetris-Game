@@ -1,0 +1,10 @@
+How to Run:
+  1. Compile Exercise_Tetris, Block, previewBlock, and TetrisModifier java files.
+  2. Run Exervise_Tetris.
+  
+How to play:
+  * Use left/right mouse click to move block
+  * Rotate blocks with the mouse wheel
+  * Pause game by moving mouse cursor within the play screen
+  * Replace a block by left clicking on the falling block
+  * All GUI are interactive with the mouse clicks
